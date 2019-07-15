@@ -66,3 +66,13 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+# Application
+
+- Install create-reat-app on you computer if donesn't have installed. if you get an error on permition try installing with sudo's permissions.
+
+    > sudo npm i -g create-react-app
+
+- Start the server to check everything was installed correctly
+
+    > npm run start
